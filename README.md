@@ -10,8 +10,6 @@ This project uses your webcam to control your computer's mouse using hand gestur
 - ✅ Scroll up with thumb up
 - ✅ Scroll down with pinky up
 
-## 📽 Demo
-
 
 ## 🧠 Technologies Used
 
